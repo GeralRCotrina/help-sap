@@ -1,0 +1,136 @@
+
+
+SAP FI GL
+F.10: Libro mayor: Planes cuentas
+F.13: Compens.automática sin indicar mon.
+F-03: Compensar cta.mayor
+F110: Parámetros para pagos autom.
+F-28: Contabilizar entrada de pagos
+F-32: Compensar deudor
+F-37: Solic.anticipo de deudor
+F-44: Compensar acreedor
+F-47: Solicitud de anticipo
+F-53: Contabilizar salida pagos
+FB01: Contabilizar documento
+FB02: Modificar documento
+FB03: Visualizar documento
+FB04: Modificaciones documento
+FB08: Anular documento
+FB50: Contab.ctas.mayor: Trans.im.indiv.
+FB60: Registro de facturas entrantes
+FB70: Registro de facturas salientes
+FBL1N: Partida individual acreedor
+FBL3N: Partida individual cuentas mayor
+FBL5N: Partida individual deudores
+FBR2: Contabilizar documento
+FBRA: Anular compensación
+FBV0: Contabilizar documento preliminar
+FD01: Crear deudor (contabilidad)
+FD02: Modif.deudor (contabilidad)
+FD03: Visual.deudor (contabilidad)
+FD10N: Visualización de saldos: Deudores
+FK01: Crear acreedor (contabilidad)
+FK02: Modif.acreedor (contabilidad)
+FK03: Visual.acreedor (contabilidad)
+FK10N: Visualización de saldos: Acreedores
+FS00: Actual.dat.mtros.cta.mayor
+FS01: Crear maestro
+FS02: Modificar maestro
+FS03: Visualizar maestro
+FS10N: Visualización de saldos
+FSP0: Reg.ctas.mayor en plan ctas.
+
+
+SAP Finanzas Activos Fijos
+AS01: Crear Registro Maestro de Activos
+AS02: Modif.registro maestro activo fijo
+AS03: Visual.registro maestro activo fijo
+AW01N: Asset Explorer
+F-90: Alta inmov. por compra con acreedor
+ABZON: Alta automática contrapartida
+ABUMN: Traspaso dentro de la sociedad
+ABAVN: Baja por desguace
+ABAON: Baja venta sin deudor
+F-92: Baja act.fijo por venta con deudor
+AB08: Anular partidas indiv. de act.fijos
+AFAR: Recalcular amortización
+AFAB: Ejecución amortización autmática
+AJAB: Cierre del ejercicio de contabilidad de activos fijos
+AJRW: Cambio de ejercicio de contabilidad de activos fijos
+
+
+
+SAP Finanzas Tesorería
+F.13: Compens.automática sin indicar mon.
+F.80: Anular documentos en masa
+F-03: Compensar cta.mayor
+F110: Parámetros para pagos autom.
+F-53: Contabilizar salida pagos
+F-58: Pago con impresión
+FB01: Contabilizar documento
+FB02: Modificar documento
+FB03: Visualizar documento
+FB04: Modificaciones documento
+FB08: Anular documento
+FB09: Modif.posiciones documento
+FB50: Contab.ctas.mayor: Trans.im.indiv.
+FBL1N: Partida individual acreedor
+FBL3N: Partida individual cuentas mayor
+FBRA: Anular compensación
+FCH2: Visualizar cheques p.documento pago
+FCH3: Anular cheques
+FCH4: Renumerar cheques
+FCH5: Crear info cheques
+FCH7: Reimprimir cheque
+FCH8: Anular pago mediante cheque
+FCH9: Invalidar cheque emitido
+FCHI: Intervalos de números de cheque
+FCHN: Registro de cheques
+FDTA: Gestión de datos TemSe/REGUT
+FEBA: Tratam post. extracto cta. electrón.
+FF.5: Cargar extracto cuenta electrónico
+FF.6: Visual.extracto cuenta electrónico
+FF63: Crear registro individual
+FF67: Extracto de cuenta manual
+FF7A: Posición de tesorería
+FF7B: Previsión de liquidez
+FI01: Crear banco
+FI02: Modificar banco
+FI03: Visualizar banco
+FI04: Visual.modif. de banco
+FS10N: Visualización de saldos
+OB08: C FI Actualización tabla TCURR
+SP01: Control de salida
+
+
+SAP Finanzas Cuentas a Pagar
+F110: Parámetros para pagos autom.
+F-44: Compensar acreedor
+F-47: Solicitud de anticipo
+F-53: Contabilizar salida pagos
+FB08: Anular documento
+FB60: Registro de facturas entrantes
+FBL1N: Partida individual acreedor
+FBR2: Contabilizar documento
+FBRA: Anular compensación
+FBV0: Contabilizar documento preliminar
+FK01: Crear acreedor (contabilidad)
+FK02: Modif.acreedor (contabilidad)
+FK03: Visual.acreedor (contabilidad)
+FK10N: Visualización de saldos: Acreedores
+
+
+SAP Finanzas Cuentas a Cobrar
+F-28: Contabilizar entrada de pagos
+F-32: Compensar deudor
+F-37: Solic.anticipo de deudor
+FB08: Anular documento
+FB70: Registro de facturas salientes
+FBL5N: Partida individual deudores
+FBR2: Contabilizar documento
+FBRA: Anular compensación
+FBV0: Contabilizar documento preliminar
+FD01: Crear deudor (contabilidad)
+FD02: Modif.deudor (contabilidad)
+FD03: Visual.deudor (contabilidad)
+FD10N: Visualización de saldos: Deudores

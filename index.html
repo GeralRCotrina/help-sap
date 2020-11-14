@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="HelpSAP_v5.2" content="HelpSAP_v5.2">
+	<meta name="author52" content="geralrcotrina52">
+	<link rel="stylesheet" type="text/css" href="css/style.css"><!-- ESTILOS .CSS   -->	
+	<script language=javascript type="text/javascript" src="js/ddbb.json"></script><!-- BD JSON-->
+	<title>HelpSAP</title>
+	<link rel="icon" type="image/ico" href="img/hs1.png" />
+</head>
+
+<body>
+
+	<div id="alerta" class="alerta_v"> <p id="txta"></p> </div>
+	
+
+	<div id="animated" class="hoja animated">
+		<div class="row">
+			<div>
+				<img src="img/hs2.png" height="35" width="auto"> <i style="color:#FFFFFF;">___</i>
+				<strong class="titulo"> HelpSAP</strong>
+			</div>
+
+			<div class="col" >
+				<div class="input-div" >
+					<input class="input-text" type="text" id="txt_buscar" onkeyup="Filtrar()" placeholder="filtrar...">
+					<img src="img/lupa.jpg" height="20px" width="auto" alt="lupa" class="input-img">
+		    	</div>
+		    </div>
+		</div>
+
+		 <p class="p-flex"><i>¡Click para copiar!</i> Tx , variables SYST , programas Abap y tablas más usadas. </p>	
+
+		<div class="w-100">		
+			<div class="w-100">
+				<table class="table w-100">
+					<thead>
+						<tr style="font-weight: bold;" class="con_fondo text-white">
+							<td></td>
+							<td>Tx</td>
+							<td>DESCRIPCIÓN_<i class="fas fa-signature"></i></td><td>-</td>
+							<td>MÓDULO</td><td>-</td>
+							<td>TABLA</td><td>-</td>
+							<td><img src="img/cop1.png" height="20px" width="auto" alt="lupa"></td>
+						</tr>
+						<tr>
+							<td></td>
+							<td><input id="td_1" class="input_fil" onkeyup='Filtds("td_1")'> </td>
+							<td><input id="td_2" class="input_fil" onkeyup='Filtds("td_2")'> </td><td></td>
+							<td><input id="td_3" class="input_fil" onkeyup='Filtds("td_3")'> </td><td></td>
+							<td><input id="td_4" class="input_fil" onkeyup='Filtds("td_4")'> </td><td></td>
+							<td><img src="img/lupa.jpg" height="25px" width="auto" alt="copy"></td>
+						</tr>
+					</thead>					
+					<tbody  id="tabla1" ></tbody>
+				</table>
+				<hr>
+				<i class="firma">Grcl 11.04.2020</i>
+			</div>
+		</div>
+
+	</div>
+<script language=javascript type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

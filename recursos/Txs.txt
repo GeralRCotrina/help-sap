@@ -1,0 +1,207 @@
+
+
+PROGRAMACIÓN/BÁSICAS
+BMV0 Gestión de los log de direct input.
+OY19 Comparación del contenido de una tabla entre dos sistemas SAP R/3
+SCAM CATT Management
+SCAT Computer Aided Test Tool
+SE01 Sistema de gestión de transportes
+SE07 Estatus de las ordenes de transporte
+SE09 Órdenes de transporte Workbench
+SE10 Órdenes de transporte Customizong
+SE11 Mantenimiento del diccionario de datos
+SE12 Visualización del diccionario de datos
+SE13 Mantenimiento de tablas
+SE14 Diccionario de datos, utilidad para bases de datos
+SE15 Sistema del repositorio
+SE16 Visor de datos (Datos Browser)
+SE17 Visor de tablas
+SE30 Análisis de tiempos de ejecución
+SE32 Mantenimiento de elementos de texto.
+SE35 Mantenimiento de módulos de diálogo
+SE36 Mantenimiento de bases de datos lógicas
+SE37 Mantenimiento de módulos de función
+SE38 Mantenimiento de programas (editor ABAP/4)
+SE39 Editor split screen
+SE41 Manteniemiento de menús (menú Painter)
+SE43 Mantenimiento de menús de área.
+SE51 Mantenimiento de dynpros (screen painter)
+SE54 Mantenimiento de vistas
+SE61 Gestión de la documentación
+SE62 Utilidad ramo industrial
+SE63 Traductor
+SE65 Documentación estadística de textos breves
+SE66 Documentación estadística de textos explicativos
+SE68 Gestión del departamento de traducción
+SE71 SAPscript layout set
+SE72 SAPscript estilos
+SE73 SAPscript fonts
+SE74 SAPscript conversión de formato
+SE75 SAPscript settings
+SE76 SAPscript traductor Layout Sets
+SE77 SAPscript traductor estilos
+SE80 Visor de objetos (object browsers)
+SE81 Jerarquía de aplicación (SAP)
+SE82 Jerarquía de aplicación (cliente)
+SE84 Sistema de información del repositorio.
+SE85 Sistema de información del repositorio. 
+SE86 Sistema de información del repositorio.
+SE87 Gestión del modelo de datos (data modeler)
+SE88 Sistema de información
+SE91 Gestión de mensajes
+SE92 Gestión de mensajes del log del sistema
+SE93 Gestión de códigos de transacción
+SEU Gestión de objetos (object browser)
+SO32 Gestión de usuarios SAPOffice
+SHDO Mantenimiento de variantes
+SQ00 ABAP/4 Query: queries
+SQ01 ABAP/4 Query: mantenimiento de queries
+SQ02 ABAP/4 Query: mantenimiento de areas funcionales
+SQ03 ABAP/4 Query: mantenimiento de grupos de usuarios
+SQ07 ABAP/4 Query: comparación del lenguaje
+SM35 Gestión de juegos de datos (Batch-Input)
+SE37 Mantenimiento de JOBS
+SM21 Ver el log del sistema. Se utiliza para ver más información cuando ocurre un DUMP.
+SHD0 Mantenimiento de transacciones de variante.
+SO00 Envia un mensaje a través de SAP. El destinatario puede ser de Internet, X400, etc..
+SMOD Gestión de User-exits. 
+
+ CONTROL DE ACCESOS
+SU01 Administración de usuarios
+SU02 Administración de perfiles
+SU03 Administración de autorizaciones
+PFCG Generador automático de perfiles
+SUIM Sistema de información 
+
+ LOGÍSTICA
+ME00 Gestión Materiales. Compras
+MB00 Gestión Materiales. Gestión de Stocks
+MR00 Gestión Materiales. Verificar Facturas
+MRBE Gestión Materiales. Valoración
+LPRO Gestión Materiales. Pronostico de Material
+MD00 Gestión Materiales. Planificación Necesidades
+MI00 Gestión Materiales. Inventario
+MM00 Gestión Materiales. Maestro Materiales
+CL00 Gestión Materiales. Clasificación
+VA00 Gestión comercial. Ventas
+VL00 Gestión Materiales. Expedición
+MCE9 Sistema Info. Compras.
+MCC2 Sistema Info. Gestión Stocks
+MCT2 Sistema Info. Comercial
+MC01 Sistema Info. Buscar vía Set Info.
+MC02 Sistema Info. Buscar vía Texto
+MCB1 Sistema Info. Controlling Stocks
+ME90 Imprimir Orden de Entrega
+MBSF Conformidad. Liberar Recepción
+MK03 Entorno. Consulta de Proveedores
+ME3N Entorno. Consulta Contratos
+MM03 Entorno. Consulta de maestro de materiales
+MR03 Entorno. Consulta Facturas
+MMBE Entorno. Resumen de Stocks
+MB51 Entorno. Consulta Mov. Material
+MB01 Mvtos. Almacén. Entrada por pedido
+MB1A Mvtos. Almacén. Salida de material
+MBST Mvtos. Almacén. Anular documento
+MBRL Mvtos. Almacén. Devolución a Proveedor
+MB03 Mvtos. Almacén. Visualizar documento
+ME56 Solicitud de Pedido. Asignar contrato.
+ME5A Sol. Pedido. Listados. Generalidades
+ME5K Sol. Pedido. Listados. Por imputación
+ME5W Sol. Pedido. Listados. Nueva presentación
+ME56 Sol. Pedido. Funciones siguiente. Asignar
+ME57 Sol. Pedido. Funciones siguientes. Asignar y tratar
+ME52 Sol. Pedido. SolP generadas. MRP. Modificar
+ME53 Sol. Pedido. SolP generadas MRP. Visualizar
+ME4L Pet. Ofertas/Oferta. Listados. Por proveedor
+ME4M Pet. Ofertas/Oferta. Listados. Por material
+ME4S Pet. Ofertas/Oferta. Listados. Por licitación
+ME4C Pet. Ofertas/Oferta. Listados. Por grupo artículos
+ME4N Pet. Ofertas/Oferta. Listados. Por petición oferta
+ME2L Pet. Ofertas/Oferta. Listados. Por proveedor.
+ME41 Pet. Ofertas/Oferta. Crear
+ME42 Pet. Ofertas/Oferta. Modificar
+ME43 Pet. Ofertas/Oferta. Visualizar
+ME47 Pet. Ofertas/Oferta. Actualizar
+ME48 Pet. Ofertas/Oferta. Visualizar
+ME49 Pet. Ofertas/Oferta. Comparación precios
+ME21 Pedido/Contrato. Crear
+ME58 Pedido/Contrato. Mediante sol. pedido
+ME22 Pedido/Contrato. Modificar
+ME23 Pedido/Contrato. Visualizar
+ME28 Pedido/Contrato. Liberar
+ME2L Pedido/Contrato. Listados. Por proveedor
+ME2M Pedido/Contrato. Listados. Por material
+ME2K Pedido/Contrato. Listados. Por imputación
+ME2C Pedido/Contrato. Listados. Por grupo de artículos
+ME2N Pedido/Contrato. Listados. Por número de pedido
+ME31 Pedido/Contrato. Pedido Abierto. Crear
+ME32 Pedido/Contrato. Pedido Abierto. Modificar
+ME33 Pedido/Contrato. Pedido Abierto. Visualizar
+ME58 Pedido/Contrato. Pedido de Baremo. Mediante sol. Pedido
+MB01 Conformidad. Crear
+MB02 Conformidad. Modificar
+MB03 Conformidad. Visualizar
+ME11 Conformidad. Registro Info. Crear
+ME12 Conformidad. Registro Info. Modificar
+ME13 Conformidad. Registro Info. Visualizar
+ME14 Conformidad. Registro Info. Modificaciones
+ME15 Conformidad. Registro Info. Petición de borrado
+ME01 Conformidad. Libro de Pedidos. Actualizar
+ME03 Conformidad. Libro de Pedidos. Visualizar
+ME04 Conformidad. Libro de Pedidos. Modificaciones
+MEQ1 Conformidad. Regulación por cuota. Actualizar
+MEQ3 Conformidad. Regulación por cuota. Visualizar
+MEQ4 Conformidad. Regulación por cuota. Modificaciones
+MEQM Conformidad. Regulación por cuota. Listado por material
+ME61 Conformidad. Evaluación proveedor. Actualizar
+ME62 Conformidad. Evaluación proveedor. Visualizar
+ME63 Conformidad. Evaluación proveedor. Reevaluación autom.
+ME64 Conformidad. Evaluación proveedor. Comparación evaluac.
+ME6A Conformidad. Evaluación proveedor. Modificaciones
+ME6H Conformidad. Evaluación proveedor. Análisis estándar
+ME1l Conformidad. Listados. Por proveedor
+ME1M Conformidad. Listados. Por material
+ME1W Conformidad. Listados. Por grupo artículos
+ME1P Conformidad. Listados. Histor. precio-pedido
+ME1E Conformidad. Listados. Histor. precio-oferta.
+ME0M Conformidad. Visualizar listado. Por material.
+U53 Visualiza los objetos de autorización de un usuario. 
+
+ RECURSOS HUMANOS
+PA03 Cambia el registro de control de nóminas
+PA20 Visualiza infotipo PA
+PA30 Crearo modifica infotipos PA.
+PP02 Entrada rápida para objetos de tipo PD
+PU00 Borra infotipo PA de un empleado.
+
+VENTAS Y DISTRIBUCIÓN
+OLSD Configuración de SD
+VB21 Volumen de ventas y compras
+VK15 Múltiples condiciones de ventas.
+VA01 Sol. Material Almacén. Crear
+VA02 Sol. Material Almacén. Modificar
+VA03 Sol. Material Almacén. Visualizar
+VA05 Sol. Material Almacén. Lista
+VA11 Crear solicitud de venta
+VA12 Modificar solicitud de venta
+VA13 Visualizar solicitud de venta
+VA15 Lista solicitud de venta
+VL02 Entrega
+
+ADMINISTRACIÓN FINANCIERA
+FGRP Pantalla del report writer
+FM12 Visualiza documentos bloqueados por el usuario.
+FST2 Inserta un nombre específico para una cuenta de tipo G/L.
+FST3 Visualiza el nombre de una cuenta G/L.
+KEA0 Mantenimiento de operaciones de interés.
+KEKE Actividad CO-PA.
+KEKK Asignación de operaciones de interés.
+KL04 Borrar un tipo de actividad.
+KS04 Borra un centro de coste.
+KSH2 Cambia o borro un grupo de centro de coste.
+OBR2 Borra el programa de clientes, vendedores y cuentas G/L.
+OKC5 Borra un grupo de elementos/costes.
+OKE1 Borra datos de una transacción.
+OKE2 Borra un centro de beneficio.
+OKI1 Determina el numero de actividad de los tipos de actividad.
+OMZ1 Define el papel de los socios.

@@ -1,0 +1,637 @@
+1	AB08	Anular partidas indiv. de act.fijos	FI-	AA-	
+2	ABAON	Baja venta sin deudor	FI-	AA-	
+3	ABAVN	Baja por desguace	FI-	AA-	
+4	ABUMN	Traspaso dentro de la sociedad	FI-	AA-	
+5	ABZON	Alta automática contrapartida	FI-	AA-	
+6	AFAB	Ejecución amortización autmática	FI-	AA-	
+7	AFAR	Recalcular amortización	FI-	AA-	
+8	AJAB	Cierre del ejercicio de contabilidad de activos fijos	FI-	AA-	
+9	AJRW	Cambio de ejercicio de contabilidad de activos fijos	FI-	AA-	
+10	AL11	Archvos de SAP	FI-	Tx-	
+11	AS01	Crear Registro Maestro de Activos	FI-	AA-	
+12	AS02	Modif.registro maestro activo fijo	FI-	AA-	
+13	AS03	Visual.registro maestro activo fijo	FI-	AA-	
+14	AW01N	Asset Explorer	FI-	AA-	
+15	BMV0	Gestión de los log de direct input.	FI-	Tx-	
+16	CL00	Clasificación	MM-	GL-	
+17	F.10	Libro mayor: Planes cuentas	FI-	GL-	
+18	F.13	Compens.automática sin indicar mon.	FI-	GL-	
+19	F.80	Anular documentos en masa	FI-	TR-	
+20	F-03	Compensar cta.mayor	FI-	GL-	
+21	F110	Parámetros para pagos autom.	FI-	GL-	
+22	F-28	Contabilizar entrada de pagos	FI-	GL-	
+23	F-32	Compensar deudor	FI-	GL-	
+24	F-37	Solic.anticipo de deudor	FI-	GL-	
+25	F-44	Compensar acreedor	FI-	GL-	
+26	F-47	Solicitud de anticipo	FI-	GL-	
+27	F-53	Contabilizar salida pagos	FI-	GL-	
+28	F-58	Pago con impresión	FI-	TR-	
+29	F-90	Alta inmov. por compra con acreedor	FI-	AA-	
+30	F-92	Baja act.fijo por venta con deudor	FI-	AA-	
+31	FB01	Contabilizar documento	FI-	GL-	
+32	FB02	Modificar documento	FI-	GL-	
+33	FB03	Visualizar documento	FI-	GL-	
+34	FB04	Modificaciones documento	FI-	GL-	
+35	FB08	Anular documento	FI-	GL-	
+36	FB09	Modif.posiciones documento	FI-	TR-	
+37	FB50	Contab.ctas.mayor: Trans.im.indiv.	FI-	GL-	
+38	FB60	Registro de facturas entrantes	FI-	GL-	
+39	FB70	Registro de facturas salientes	FI-	GL-	
+40	FBL1	 Partida individual acreedor	FI-	AP-	
+41	FBL1N	Partida individual acreedor	FI-	GL-	
+42	FBL3N	Partida individual cuentas mayor	FI-	GL-	
+43	FBL5	 Partida individual deudores	FI-	AR-	
+44	FBL5N	Partida individual deudores	FI-	GL-	
+45	FBR2	Contabilizar documento	FI-	GL-	
+46	FBRA	Anular compensación	FI-	GL-	
+47	FBV0	Contabilizar documento preliminar	FI-	GL-	
+48	FCH2	Visualizar cheques p.documento pago	FI-	TR-	
+49	FCH3	Anular cheques	FI-	TR-	
+50	FCH4	Renumerar cheques	FI-	TR-	
+51	FCH5	Crear info cheques	FI-	TR-	
+52	FCH7	Reimprimir cheque	FI-	TR-	
+53	FCH8	Anular pago mediante cheque	FI-	TR-	
+54	FCH9	Invalidar cheque emitido	FI-	TR-	
+55	FCHI	Intervalos de números de cheque	FI-	TR-	
+56	FCHN	Registro de cheques	FI-	TR-	
+57	FD01	Crear deudor (contabilidad)	FI-	GL-	
+58	FD02	Modif.deudor (contabilidad)	FI-	GL-	
+59	FD03	Visual.deudor (contabilidad)	FI-	GL-	
+60	FD10N	Visualización de saldos: Deudores	FI-	GL-	
+61	FDTA	Gestión de datos TemSe/REGUT	FI-	TR-	
+62	FEBA	Tratam post. extracto cta. electrón.	FI-	TR-	
+63	FF.5	Cargar extracto cuenta electrónico	FI-	TR-	
+64	FF.6	Visual.extracto cuenta electrónico	FI-	TR-	
+65	FF63	Crear registro individual	FI-	TR-	
+66	FF67	Extracto de cuenta manual	FI-	TR-	
+67	FF7A	Posición de tesorería	FI-	TR-	
+68	FF7B	Previsión de liquidez	FI-	TR-	
+69	FGRP	Pantalla del report writer	FI-	Tx-	
+70	FI01	Crear banco	FI-	TR-	
+71	FI02	Modificar banco	FI-	TR-	
+72	FI03	Visualizar banco	FI-	TR-	
+73	FI04	Visual.modif. de banco	FI-	TR-	
+74	FK01	Crear acreedor (contabilidad)	FI-	GL-	
+75	FK02	Modif.acreedor (contabilidad)	FI-	GL-	
+76	FK03	Visual.acreedor (contabilidad)	FI-	GL-	
+77	FK10N	Visualización de saldos: Acreedores	FI-	GL-	
+78	FM12	Visualiza documentos bloqueados por el usuario.	FI-	Tx-	
+79	FS00	Actual.dat.mtros.cta.mayor	FI-	GL-	
+80	FS01	Crear maestro	FI-	GL-	
+81	FS02	Modificar maestro	FI-	GL-	
+82	FS03	Visualizar maestro	FI-	GL-	
+83	FS10N	Visualización de saldos	FI-	GL-	
+84	FSP0	Reg.ctas.mayor en plan ctas.	FI-	GL-	
+85	FST2	Inserta un nombre específico para una cuenta de tipo G/L.	FI-	Tx-	
+86	FST3	Visualiza el nombre de una cuenta G/L.	FI-	Tx-	
+87	KEA0	Mantenimiento de operaciones de interés.	FI-	Tx-	
+88	KEKE	Actividad CO-PA.	FI-	Tx-	
+89	KEKK	Asignación de operaciones de interés.	FI-	Tx-	
+90	KL04	Borrar un tipo de actividad.	FI-	Tx-	
+91	KS04	Borra un centro de coste.	FI-	Tx-	
+92	KSH2	Cambia o borro un grupo de centro de coste.	FI-	Tx-	
+93	LPRO	Pronostico de Material	MM-	Gestión Materiales.	
+94	MB00	Gestión de Stocks	MM-	Gestión Materiales.	
+95	MB01	Entrada por pedido	MM-	Mvtos. Almacén.	
+96	MB02	Modificar	MM-	Conformidad.	
+97	MB03	Visualizar documento	MM-	Mvtos. Almacén.	
+98	MB1A	Salida de material	MM-	Mvtos. Almacén.	
+99	MB51	Consulta Mov. Material	MM-	Entorno.	
+100	MBRL	Devolución a Proveedor	MM-	Mvtos. Almacén.	
+101	MBSF	Liberar Recepción	MM-	Conformidad.	
+102	MBST	Anular documento	MM-	Mvtos. Almacén.	
+103	MC01	Buscar vía Set Info.	MM-	Sistema Info. 	
+104	MC02	Buscar vía Texto	MM-	Sistema Info. 	
+105	MCB1	Controlling Stocks	MM-	Sistema Info. 	
+106	MCC2	Gestión Stocks	MM-	Sistema Info. 	
+107	MCE9	Compras.	MM-	Sistema Info. 	
+108	MCT2	Comercial	MM-	Sistema Info. 	
+109	MD00	Planificación Necesidades	MM-	Gestión Materiales.	
+110	ME00	Compras	MM-	Gestión Materiales.	
+111	ME01	Libro de Pedidos. Actualizar	MM-	Conformidad.	
+112	ME03	Libro de Pedidos. Visualizar	MM-	Conformidad.	
+113	ME04	Libro de Pedidos. Modificaciones	MM-	Conformidad.	
+114	ME0M	Visualizar listado. Por material.	MM-	Conformidad.	
+115	ME11	Registro Info. Crear	MM-	Conformidad.	
+116	ME12	Registro Info. Modificar	MM-	Conformidad.	
+117	ME13	Registro Info. Visualizar	MM-	Conformidad.	
+118	ME14	Registro Info. Modificaciones	MM-	Conformidad.	
+119	ME15	Registro Info. Petición de borrado	MM-	Conformidad.	
+120	ME1E	Listados. Histor. precio-oferta.	MM-	Conformidad.	
+121	ME1l	Listados. Por proveedor	MM-	Conformidad.	
+122	ME1M	Listados. Por material	MM-	Conformidad.	
+123	ME1P	Listados. Histor. precio-pedido	MM-	Conformidad.	
+124	ME1W	Listados. Por grupo artículos	MM-	Conformidad.	
+125	ME21	Crear	MM-	Pedido/Contrato.	
+126	ME22	Modificar	MM-	Pedido/Contrato.	
+127	ME23	Visualizar	MM-	Pedido/Contrato.	
+128	ME28	Liberar	MM-	Pedido/Contrato.	
+129	ME2C	Listados. Por grupo de artículos	MM-	Pedido/Contrato.	
+130	ME2K	Listados. Por imputación	MM-	Pedido/Contrato.	
+131	ME2L	Listados. Por proveedor.	MM-	Pet. Ofertas/Oferta.	
+132	ME2M	Listados. Por material	MM-	Pedido/Contrato.	
+133	ME31	Pedido Abierto. Crear	MM-	Pedido/Contrato.	
+134	ME32	Pedido Abierto. Modificar	MM-	Pedido/Contrato.	
+135	ME33	Pedido Abierto. Visualizar	MM-	Pedido/Contrato.	
+136	ME3N	Consulta Contratos	MM-	Entorno.	
+137	ME41	Crear	MM-	Pet. Ofertas/Oferta.	
+138	ME42	Modificar	MM-	Pet. Ofertas/Oferta.	
+139	ME43	Visualizar	MM-	Pet. Ofertas/Oferta.	
+140	ME47	Actualizar	MM-	Pet. Ofertas/Oferta.	
+141	ME48	Visualizar	MM-	Pet. Ofertas/Oferta.	
+142	ME49	Comparación precios	MM-	Pet. Ofertas/Oferta.	
+143	ME4C	Listados. Por grupo artículos	MM-	Pet. Ofertas/Oferta.	
+144	ME4L	Listados. Por proveedor	MM-	Pet. Ofertas/Oferta.	
+145	ME4M	Listados. Por material	MM-	Pet. Ofertas/Oferta.	
+146	ME4N	Listados. Por petición oferta	MM-	Pet. Ofertas/Oferta.	
+147	ME4S	Listados. Por licitación	MM-	Pet. Ofertas/Oferta.	
+148	ME52	SolP generadas. MRP. Modificar	MM-	Sol. Pedido. 	
+149	ME53	SolP generadas. MRP. Visualizar	MM-	Sol. Pedido. 	
+150	ME56	Asignar contrato.	MM-	Sol. Pedido. 	
+151	ME57	Funciones siguientes. Asignar y tratar	MM-	Sol. Pedido. 	
+152	ME58	Pedido de Baremo. Mediante sol. Pedido	MM-	Pedido/Contrato.	
+153	ME5A	Listados. Generalidades	MM-	Sol. Pedido. 	
+154	ME5K	Listados. Por imputación	MM-	Sol. Pedido. 	
+155	ME5W	Listados. Nueva presentación	MM-	Sol. Pedido. 	
+156	ME61	Evaluación proveedor. Actualizar	MM-	Conformidad.	
+157	ME62	Evaluación proveedor. Visualizar	MM-	Conformidad.	
+158	ME63	Evaluación proveedor. Reevaluación autom.	MM-	Conformidad.	
+159	ME64	Evaluación proveedor. Comparación evaluac.	MM-	Conformidad.	
+160	ME6A	Evaluación proveedor. Modificaciones	MM-	Conformidad.	
+161	ME6H	Evaluación proveedor. Análisis estándar	MM-	Conformidad.	
+162	ME90	Imprimir Orden de Entrega	MM-	Tx-	
+163	MEQ1	Regulación por cuota. Actualizar	MM-	Conformidad.	
+164	MEQ3	Regulación por cuota. Visualizar	MM-	Conformidad.	
+165	MEQ4	Regulación por cuota. Modificaciones	MM-	Conformidad.	
+166	MEQM	Regulación por cuota. Listado por material	MM-	Conformidad.	
+167	MI00	Inventario	MM-	Gestión Materiales.	
+168	MK03	Consulta de Proveedores	MM-	Entorno.	
+169	MM00	Maestro Materiales	MM-	Gestión Materiales.	
+170	MM03	Consulta de maestro de materiales	MM-	Entorno.	
+171	MMBE	Resumen de Stocks	MM-	Entorno.	
+172	MR00	Verificar Facturas	MM-	Gestión Materiales.	
+173	MR03	Consulta Facturas	MM-	Entorno.	
+174	MRBE	Valoración	MM-	Gestión Materiales.	
+175	OAER	Imagenes para reporte.	Prog/Basic-	Tx-	
+176	OB08	C FI Actualización tabla TCURR	FI-	TR-	
+177	OBR2	Borra el programa de clientes, vendedores y cuentas G/L.	FI-	Tx-	
+178	OKC5	Borra un grupo de elementos/costes.	FI-	Tx-	
+179	OKE1	Borra datos de una transacción.	FI-	Tx-	
+180	OKE2	Borra un centro de beneficio.	FI-	Tx-	
+181	OKI1	Determina el numero de actividad de los tipos de actividad.	FI-	Tx-	
+182	OLSD	Configuración de SD	SD-	Tx-	
+183	OMZ1	Define el papel de los socios.	FI-	Tx-	
+184	OY19	Comparación del contenido de una tabla entre dos sistemas SAP R/3	Prog/Basic-	Tx-	
+185	PA03	Cambia el registro de control de nóminas	HCM-	Tx-	
+186	PA20	Visualiza infotipo PA	HCM-	Tx-	
+187	PA30	Crearo modifica infotipos PA.	HCM-	Tx-	
+188	PFCG	Generador automático de perfiles	Control/Acceso-	Tx-	
+189	PP02	Entrada rápida para objetos de tipo PD	HCM-	Tx-	
+190	PU00	Borra infotipo PA de un empleado.	HCM-	Tx-	
+191	SCAM	CATT Management	Prog/Basic-	Tx-	
+192	SCAT	Computer Aided Test Tool	Prog/Basic-	Tx-	
+193	SCOT	Correos salientes.	Prog/Basic-	Tx-	
+194	SE01	Sistema de gestión de transportes	Prog/Basic-	Tx-	
+195	SE07	Estatus de las ordenes de transporte	Prog/Basic-	Tx-	
+196	SE09	Órdenes de transporte Workbench	Prog/Basic-	Tx-	
+197	SE10	Órdenes de transporte Customizong	Prog/Basic-	Tx-	
+198	SE11	Mantenimiento del diccionario de datos	Prog/Basic-	Tx-	
+199	SE12	Visualización del diccionario de datos	Prog/Basic-	Tx-	
+200	SE13	Mantenimiento de tablas	Prog/Basic-	Tx-	
+201	SE14	Diccionario de datos, utilidad para bases de datos	Prog/Basic-	Tx-	
+202	SE15	Sistema del repositorio	Prog/Basic-	Tx-	
+203	SE16	Visor de datos (Datos Browser)	Prog/Basic-	Tx-	
+204	SE17	Visor de tablas	Prog/Basic-	Tx-	
+205	SE24	Módulo de clases.	Prog/Basic-	Tx-	
+206	SE30	Análisis de tiempos de ejecución	Prog/Basic-	Tx-	
+207	SE32	Mantenimiento de elementos de texto.	Prog/Basic-	Tx-	
+208	SE35	Mantenimiento de módulos de diálogo	Prog/Basic-	Tx-	
+209	SE36	Mantenimiento de bases de datos lógicas	Prog/Basic-	Tx-	
+210	SE37	Mantenimiento de JOBS	Prog/Basic-	Tx-	
+211	SE38	Mantenimiento de programas (editor ABAP/4)	Prog/Basic-	Tx-	
+212	SE39	Editor split screen	Prog/Basic-	Tx-	
+213	SE41	Manteniemiento de menús (menú Painter)	Prog/Basic-	Tx-	
+214	SE43	Mantenimiento de menús de área.	Prog/Basic-	Tx-	
+215	SE51	Mantenimiento de dynpros (screen painter)	Prog/Basic-	Tx-	
+216	SE54	Mantenimiento de vistas	Prog/Basic-	Tx-	
+217	SE61	Gestión de la documentación	Prog/Basic-	Tx-	
+218	SE62	Utilidad ramo industrial	Prog/Basic-	Tx-	
+219	SE63	Traductor	Prog/Basic-	Tx-	
+220	SE65	Documentación estadística de textos breves	Prog/Basic-	Tx-	
+221	SE66	Documentación estadística de textos explicativos	Prog/Basic-	Tx-	
+222	SE68	Gestión del departamento de traducción	Prog/Basic-	Tx-	
+223	SE71	SAPscript layout set	Prog/Basic-	Tx-	
+224	SE72	SAPscript estilos	Prog/Basic-	Tx-	
+225	SE73	SAPscript fonts	Prog/Basic-	Tx-	
+226	SE74	SAPscript conversión de formato	Prog/Basic-	Tx-	
+227	SE75	SAPscript settings	Prog/Basic-	Tx-	
+228	SE76	SAPscript traductor Layout Sets	Prog/Basic-	Tx-	
+229	SE77	SAPscript traductor estilos	Prog/Basic-	Tx-	
+230	SE78	Imagenes para smartf.	Prog/Basic-	Tx-	
+231	SE80	Visor de objetos (object browsers)	Prog/Basic-	Tx-	
+232	SE81	Jerarquía de aplicación (SAP)	Prog/Basic-	Tx-	
+233	SE82	Jerarquía de aplicación (cliente)	Prog/Basic-	Tx-	
+234	SE84	Sistema de información del repositorio.	Prog/Basic-	Tx-	
+235	SE85	Sistema de información del repositorio. 	Prog/Basic-	Tx-	
+236	SE86	Sistema de información del repositorio.	Prog/Basic-	Tx-	
+237	SE87	Gestión del modelo de datos (data modeler)	Prog/Basic-	Tx-	
+238	SE88	Sistema de información	Prog/Basic-	Tx-	
+239	SE91	Gestión de mensajes	Prog/Basic-	Tx-	
+240	SE92	Gestión de mensajes del log del sistema	Prog/Basic-	Tx-	
+241	SE93	Gestión de códigos de transacción	Prog/Basic-	Tx-	
+242	SEU 	Gestión de objetos (object browser)	Prog/Basic-	Tx-	
+243	SHD0	Mantenimiento de transacciones de variante.	Prog/Basic-	Tx-	
+244	SHDB	Grabación BACH INPUT.	Prog/Basic-	Tx-	
+245	SHDO	Mantenimiento de variantes	Prog/Basic-	Tx-	
+246	SM12	Cerrar otras transacciones.	Prog/Basic-	Tx-	
+247	SM21	Ver el log del sistema. Se utiliza para ver más información cuando ocurre un DUMP.	Prog/Basic-	Tx-	
+248	SM30	Para las vistas de actu.	Prog/Basic-	Tx-	
+249	SM35	Gestión de juegos de datos (Batch-Input)	Prog/Basic-	Tx-	
+250	SM36	Jobs	Prog/Basic-	Tx-	
+251	SM37	Ver jobs.	Prog/Basic-	Tx-	
+252	SM50	Procesos corriendo.	Prog/Basic-	Tx-	
+253	SM51	Procesos del servidor.	Prog/Basic-	Tx-	
+254	SMOD	Gestión de User-exits. 	Prog/Basic-	Tx-	
+255	SO00	Envia un mensaje a través de SAP. El destinatario puede ser de Internet, X400, etc..	Prog/Basic-	Tx-	
+256	SO32	Gestión de usuarios SAPOffice	Prog/Basic-	Tx-	
+257	SOST	Correos salientes.	Prog/Basic-	Tx-	
+258	SP01	Control de salida	FI-	TR-	
+259	SQ00	ABAP/4 Query: queries	Prog/Basic-	Tx-	
+260	SQ01	ABAP/4 Query: mantenimiento de queries	Prog/Basic-	Tx-	
+261	SQ02	ABAP/4 Query: mantenimiento de areas funcionales	Prog/Basic-	Tx-	
+262	SQ03	ABAP/4 Query: mantenimiento de grupos de usuarios	Prog/Basic-	Tx-	
+263	SQ07	ABAP/4 Query: comparación del lenguaje	Prog/Basic-	Tx-	
+264	STMS	Transportar OT	Prog/Basic-	Tx-	
+265	SU01	Administración de usuarios	Control/Acceso-	Tx-	
+266	SU02	Administración de perfiles	Control/Acceso-	Tx-	
+267	SU03	Administración de autorizaciones	Control/Acceso-	Tx-	
+268	SU24	Asignar objetos de autorizacción.	Prog/Basic-	Tx-	
+269	SUIM	Sistema de información 	Control/Acceso-	Tx-	
+270	SWDD	Ver workfolw.	Prog/Basic-	Tx-	
+271	U53 	Visualiza los objetos de autorización de un usuario. 	MM-	Tx-	
+272	VA00	Ventas	MM-	Gestión comercial. 	
+273	VA01	Crear	SD-	Sol. Material Almacén.	
+274	VA02	Modificar	SD-	Sol. Material Almacén.	
+275	VA03	Visualizar	SD-	Sol. Material Almacén.	
+276	VA05	Lista	SD-	Sol. Material Almacén.	
+277	VA11	Crear solicitud de venta	SD-	Tx-	
+278	VA12	Modificar solicitud de venta	SD-	Tx-	
+279	VA13	Visualizar solicitud de venta	SD-	Tx-	
+280	VA15	Lista solicitud de venta	SD-	Tx-	
+281	VB21	Volumen de ventas y compras	SD-	Tx-	
+282	VK15	Múltiples condiciones de ventas.	SD-	Tx-	
+283	VL00	Expedición	MM-	Gestión Materiales.	
+284	VL02	Entrega	SD-	Tx-	
+285	SY-ABCDE	 Constant: Alphabet (A,B,C,...)	SYST-	SYST	
+286	SY-APPLI	 SAP applications	SYST-	SYST	
+287	SY-BATCH	 Background active (X)	SYST-	SYST	
+288	SY-BATZD	 Background SUBMIT: Daily	SYST-	SYST	
+289	SY-BATZM	 Background SUBMIT: Monthly	SYST-	SYST	
+290	SY-BATZO	 Background SUBMIT: Once	SYST-	SYST	
+291	SY-BATZS	 Background SUBMIT: Immediately	SYST-	SYST	
+292	SY-BATZW	 Background SUBMIT: Weekly	SYST-	SYST	
+293	SY-BINPT	 Batch input active (X)	SYST-	SYST	
+294	SY-BREP4	 Background SUBMIT: Root name of request report	SYST-	SYST	
+295	SY-BSPLD	 Background SUBMIT: List output to spool	SYST-	SYST	
+296	SY-CALLD	 CALL mode active (X)	SYST-	SYST	
+297	SY-CALLR	 Print: ID for print dialog function	SYST-	SYST	
+298	SY-CCURS	 Rate specification/result field (CURRENCY CONVERT)	SYST-	SYST	
+299	SY-CCURT	 Table rate from currency conversion	SYST-	SYST	
+300	SY-CDATE	 Date of rate from currency conversion	SYST-	SYST	
+301	SY-COLNO	 Current column during list creation	SYST-	SYST	
+302	SY-CPAGE	 Current page number	SYST-	SYST	
+303	SY-CPROG	 Runtime: Main program	SYST-	SYST	
+304	SY-CTABL	 Exchange rate table from currency conversion	SYST-	SYST	
+305	SY-CTYPE	 Exchange rate type 'M','B','G' from CURRENCY CONVERSION	SYST-	SYST	
+306	SY-CUCOL	 Cursor position (column)	SYST-	SYST	
+307	SY-CUROW	 Cursor position (line)	SYST-	SYST	
+308	SY-DATAR	 Flag: Data received	SYST-	SYST	
+309	SY-DATLO	 Local date for user	SYST-	SYST	
+310	SY-DATUM	 System: Date	SYST-	SYST	
+311	SY-DATUT	 Global date related to UTC (GMT)	SYST-	SYST	
+312	SY-DAYST	 Summertime active ? ('daylight saving time')	SYST-	SYST	
+313	SY-DBCNT	 Number of elements in edited dataset with DB operations	SYST-	SYST	
+314	SY-DBNAM	 Logical database for ABAP/4 program	SYST-	SYST	
+315	SY-DBSYS	 System: Database system	SYST-	SYST	
+316	SY-DCSYS	 System: Dialog system	SYST-	SYST	
+317	SY-DSNAM	 Runtime: Name of dataset for spool output	SYST-	SYST	
+318	SY-DYNGR	 Screen group of current screen	SYST-	SYST	
+319	SY-DYNNR	 Number of current screen	SYST-	SYST	
+320	SY-FDAYW	 Factory calendar weekday	SYST-	SYST	
+321	SY-FDPOS	 Location of a string	SYST-	SYST	
+322	SY-FMKEY	 Current function code menu	SYST-	SYST	
+323	SY-HOST 	Host	SYST-	SYST	
+324	SY-INDEX	 Number of loop passes	SYST-	SYST	
+325	SY-LANGU	 SAP logon language key	SYST-	SYST	
+326	SY-LDBPG	 Program: ABAP/4 database program for SY-DBNAM	SYST-	SYST	
+327	SY-LILLI	 Number of current list line	SYST-	SYST	
+328	SY-LINCT	 Number of list lines	SYST-	SYST	
+329	SY-LINNO	 Current line for list creation	SYST-	SYST	
+330	SY-LINSZ	 Line size of list	SYST-	SYST	
+331	SY-LISEL	 Interact.: Selected line	SYST-	SYST	
+332	SY-LISTI	 Number of current list line	SYST-	SYST	
+333	SY-LOCDB	 Local database exists	SYST-	SYST	
+334	SY-LOCOP	 Local database operation	SYST-	SYST	
+335	SY-LOOPC	 Number of LOOP lines at screen step loop	SYST-	SYST	
+336	SY-LSIND	 Number of secondary list	SYST-	SYST	
+337	SY-LSTAT	 Interact.: Status information for each list level	SYST-	SYST	
+338	SY-MACDB	 Program: Name of file for matchcode access	SYST-	SYST	
+339	SY-MACOL	 Number of columns from SET MARGIN	SYST-	SYST	
+340	SY-MANDT	 Client number from SAP logon	SYST-	SYST	
+341	SY-MARKY	 Current line character for MARK	SYST-	SYST	
+342	SY-MAROW	 No. of lines from SET MARGIN statement	SYST-	SYST	
+343	SY-MODNO	 Number of alternative modi	SYST-	SYST	
+344	SY-MSGID	 Message ID	SYST-	SYST	
+345	SY-MSGLI	 Interact.: Message line (line 23)	SYST-	SYST	
+346	SY-MSGNO	 Message number	SYST-	SYST	
+347	SY-MSGTY	 Message type (E,I.W,...)	SYST-	SYST	
+348	SY-MSGV1	 Message variable	SYST-	SYST	
+349	SY-MSGV2	 Message variable	SYST-	SYST	
+350	SY-MSGV3	 Message variable	SYST-	SYST	
+351	SY-MSGV4	 Message variable	SYST-	SYST	
+352	SY-OPSYS	 System: Operating system	SYST-	SYST	
+353	SY-PAART	 Print: Format	SYST-	SYST	
+354	SY-PAGCT	 Page size of list from REPORT statement	SYST-	SYST	
+355	SY-PAGNO	 Runtime: Current page in list	SYST-	SYST	
+356	SY-PDEST	 Print: Output device	SYST-	SYST	
+357	SY-PEXPI	 Print: Spool retention period	SYST-	SYST	
+358	SY-PFKEY	 Runtime: Current F key status	SYST-	SYST	
+359	SY-PLIST	 Print: Name of spool request (list name)	SYST-	SYST	
+360	SY-PRABT	 Print: Department on cover sheet	SYST-	SYST	
+361	SY-PRBIG	 Print: Selection cover sheet	SYST-	SYST	
+362	SY-PRCOP	 Print: Number of copies	SYST-	SYST	
+363	SY-PRDSN	 Print: Name of spool dataset	SYST-	SYST	
+364	SY-PREFX	 ABAP/4 prefix for background jobs	SYST-	SYST	
+365	SY-PRIMM	 Print: Print immediately	SYST-	SYST	
+366	SY-PRNEW	 Print: New spool request (list)	SYST-	SYST	
+367	SY-PRREC	 Print: Recipient	SYST-	SYST	
+368	SY-PRREL	 Print: Delete after printing	SYST-	SYST	
+369	SY-PRTXT	 Print: Text for cover sheet	SYST-	SYST	
+370	SY-REPID	 Program: Name of ABAP/4 program	SYST-	SYST	
+371	SY-RTITL	 Print: Report title of program to be printed	SYST-	SYST	
+372	SY-SAPRL	 System: SAP Release	SYST-	SYST	
+373	SY-SCOLS	 Columns on screen	SYST-	SYST	
+374	SY-SLSET	 Name of selection set	SYST-	SYST	
+375	SY-SPONO	 Runtime: Spool number for list output	SYST-	SYST	
+376	SY-SPONR	 Runtime: Spool number from TRANSFER statement	SYST-	SYST	
+377	SY-SROWS	 Lines on screen	SYST-	SYST	
+378	SY-STACO	 Interact.: List displayed from column	SYST-	SYST	
+379	SY-STARO	 Interact.: Page displayed from line	SYST-	SYST	
+380	SY-STEPL	 Number of LOOP line at screen step	SYST-	SYST	
+381	SY-SUBRC	 Return value after specific ABAP/4 statements	SYST-	SYST	
+382	SY-SUBTY	 ABAP/4: Call type for SUBMIT	SYST-	SYST	
+383	SY-SYSID	 System: SAP System ID	SYST-	SYST	
+384	SY-TABIX	 Runtime: Current line of an internal table	SYST-	SYST	
+385	SY-TCODE	 Session: Current transaction code	SYST-	SYST	
+386	SY-TFDSN	 Runtime: Dataset for data extracts	SYST-	SYST	
+387	SY-TFILL	 Current number of entries in internal table	SYST-	SYST	
+388	SY-TIMLO	 Local time for user	SYST-	SYST	
+389	SY-TIMUT	 Global time related to UTC (GMT)	SYST-	SYST	
+390	SY-TITLE	 Title of ABAP/4 program	SYST-	SYST	
+391	SY-TLENG	 Line width of an internal table	SYST-	SYST	
+392	SY-TMAXL	 Maximum number of entries in internal table (?)	SYST-	SYST	
+393	SY-TNAME	 Name of internal table after an access (?)	SYST-	SYST	
+394	SY-TOCCU	 OCCURS parameter with internal tables	SYST-	SYST	
+395	SY-TPAGI	 Flag indicating roll-out of internal table to paging area (?)	SYST-	SYST	
+396	SY-TSTLO	 Timestamp (date and time) for user	SYST-	SYST	
+397	SY-TSTUT	 Timestamp (date and time) related to UTC (GMT)	SYST-	SYST	
+398	SY-TTABC	 Number of line last read in an internal table (?)	SYST-	SYST	
+399	SY-TTABI	 Offset of internal table in roll area (?)	SYST-	SYST	
+400	SY-TVAR0	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+401	SY-TVAR1	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+402	SY-TVAR2	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+403	SY-TVAR3	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+404	SY-TVAR4	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+405	SY-TVAR5	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+406	SY-TVAR6	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+407	SY-TVAR7	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+408	SY-TVAR8	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+409	SY-TVAR9	 Runtime: Text variable for ABAP/4 text elements	SYST-	SYST	
+410	SY-TZONE	 Time difference from 'Greenwich Mean Time' (UTC) in seconds	SYST-	SYST	
+411	SY-UCOMM	 Interact.: Command field function entry	SYST-	SYST	
+412	SY-ULINE	 Constant: Underline (---------...)	SYST-	SYST	
+413	SY-UNAME	 Session: SAP user from SAP logon	SYST-	SYST	
+414	SY-UZEIT	 System: Time	SYST-	SYST	
+415	SY-VLINE	 Constant: Vertical bar	SYST-	SYST	
+416	SY-WAERS	 T001: Company code currency after reading B segment	SYST-	SYST	
+417	SY-WILLI	 Number of current window line	SYST-	SYST	
+418	SY-WINCO	 Cursor position in window (column)	SYST-	SYST	
+419	SY-WINDI	 Index of current window line	SYST-	SYST	
+420	SY-WINRO	 Cursor position in window (line)	SYST-	SYST	
+421	SY-WINSL	 Interact.: Selected window line	SYST-	SYST	
+422	SY-WINX1	 Window coordinate (column left)	SYST-	SYST	
+423	SY-WINX2	 Window coordinate (column right)	SYST-	SYST	
+424	SY-WINY1	 Window coordinate (line left)	SYST-	SYST	
+425	SY-WINY2	 Window coordinate (line right)	SYST-	SYST	
+426	SY-WTITL	 Standard page header indicator	SYST-	SYST	
+427	SY-XCODE	 Extended command field	SYST-	SYST	
+428	SY-ZONLO	 Time zone of user	SYST-	SYST	
+429	MODULOS	"<a href=""https://saps4hanainfo.com/""  target=""_blank"">Link a la descripción de módulos</a>"	LINK-	-	
+430	AGKO	Cuentas Compensadas	FI-	TAB-	
+431	AVIK	Cabecera de aviso	FI-	TAB-	
+432	AVIP	Posicion de aviso	FI-	TAB-	
+433	AVIR	Subposicion de aviso	FI-	TAB-	
+434	BKPF	Cabecera de documento para Contabil.	FI-	TAB-	
+435	BSAD	Cont.indice sec.para deudores(partidas compensadas)	FI-	TAB-	
+436	BSAK	Cont.indice sec.para acreedores(partidas compensadas)	FI-	TAB-	
+437	BSAS	Cont.indice sec.para ctas.mayor(partidas compensadas)	FI-	TAB-	
+438	BNKA	Maestro de banco	FI-	TAB-	
+439	BSBM	Campos de valoracion del documento	FI-	TAB-	
+440	BSBW	Campos de valoracion del documento	FI-	TAB-	
+441	BSEC	Segmento de documento para datos CPD	FI-	TAB-	
+442	BSED	Segmento de documento – campos de efectos	FI-	TAB-	
+443	BSEG	Segmento de documento de Contabilidad	FI-	TAB-	
+444	BSES	Datos de control de documento	FI-	TAB-	
+445	BSET	Datos de control de segmento de documento	FI-	TAB-	
+446	BSID	Cont. Indice secundario de deudores	FI-	TAB-	
+447	BSIK	Cont. Indice secundario de acreedores	FI-	TAB-	
+448	BSIP	Indice para verificacion de docuemntos dobles de acreedores	FI-	TAB-	
+449	BSIS	Cont. Indice secundario ctas.mayor	FI-	TAB-	
+450	BVOR	Operaciones contables multisociedades	FI-	TAB-	
+451	PAYR	Fichero de medio de pago	FI-	TAB-	
+452	PCEC	Checkes prenumerados	FI-	TAB-	
+453	PNBK	Notific.Previa nuevos datos bancarios de regs.	FI-	TAB-	
+454	REGUH	Datos de pago del programa de pagos	FI-	TAB-	
+455	REGUP	Posicion tratadas del programa de pagos	FI-	TAB-	
+456	TVDC	Plazos de entrega: Clases	SD-	TAB-	
+457	VBAG	Documento Ventas: Fecha para repartos en planes de entrega	SD-	TAB-	
+458	VBAK	Documento Ventas: Datos de cabecera	SD-	TAB-	
+459	VBAP	Documento Ventas: Datos de posicion	SD-	TAB-	
+460	VBEH	Historial repartos entrega	SD-	TAB-	
+461	VBEP	Documento Ventas: Datos de reparto	SD-	TAB-	
+462	VBKD	Documento Ventas: Datos comerciales	SD-	TAB-	
+463	VBLB	Documento Ventas: Datos ord.-entrega	SD-	TAB-	
+464	VBSN	Estados de modificacion p.pl.-entregas	SD-	TAB-	
+465	VBSP	Documento RV posicion para ejecutar estrctura de articulo	SD-	TAB-	
+466	VBFA	Flujo de documento de ventas	SD-	TAB-	
+467	VBPA	Documento Comercial: Interlocutor	SD-	TAB-	
+468	VEDA	Datos contractuales	SD-	TAB-	
+469	VLPKM	Planes entrega para mat. De cliente	SD-	TAB-	
+470	LIKP	Doc. Comercial Entrega – Datos de cabecera	SD-	TAB-	
+471	LIPS	Doc. Comercial Entrega – Datos de posicion	SD-	TAB-	
+472	VBUP	Doc. Comercial Entrega: Status de posicion	SD-	TAB-	
+473	VBUK	Doc. Comercial Entrega: Status cabecera y datos gestion	SD-	TAB-	
+474	VBRK	Doc. Comercial Factura: Datos de cabecera	SD-	TAB-	
+475	VBRP	Doc. Comercial Factura: Datos de posicion	SD-	TAB-	
+476	VTTK	Doc. Comercial Factura:	SD-	TAB-	
+477	VTTP	Posicion de transporte	SD-	TAB-	
+478	VTTS	Etapa de transporte	SD-	TAB-	
+479	COBP	Objeto CO: Totales de costes – Contabilizaciones	CO-	TAB-	
+480	COBK	Objeto CO: Cabecera de dcumento	CO-	TAB-	
+481	COEP	Objeto CO: Partida individual por periodo	CO-	TAB-	
+482	CSKS	Maestro de centros de costo	CO-	TAB-	
+483	CKHS	Cabecera – calculo de calculo de costes unitarios(control+sumas)	CO-	TAB-	
+484	CKIS	Posiciones del CCU/Vis Detallada costes del producto	CO-	TAB-	
+485	COKP	Objeto CO: Cabecera del documento	CO-	TAB-	
+486	COEJ	Objeto CO: partida ind. Por año	CO-	TAB-	
+487	CSKA	Clases de coste(datos pendientes del plan ctas)	CO-	TAB-	
+488	CSKB	Clases de coste(datos dependientes de la sociedad CO)	CO-	TAB-	
+489	AUSP	Valores prop. De las caracteristica	CA-	TAB-	
+490	CABS	Resultado evaluacion estad. De AUSP	CA-	TAB-	
+491	KLAH	Datos cabecera clase	CA-	TAB-	
+492	KLAT	Clases: Textos explicativos	CA-	TAB-	
+493	KSML	Caracteristicas de clases	CA-	TAB-	
+494	KSSK	Tabla de asignacion: Objeto a Clase	CA-	TAB-	
+495	CABN	Caracteristicas	CA-	TAB-	
+496	CAWN	Valores de caracteristicas	CA-	TAB-	
+497	TCLA	Categorias clase	CA-	TAB-	
+498	TCLAO	Varios objetos en una categoria de	CA-	TAB-	
+499	TCLAT	Textos cateroria de clase	CA-	TAB-	
+500	TCLC	Status de clasificacion	CA-	TAB-	
+501	TCLD	Datos Caracteristicas de norma	CA-	TAB-	
+502	TCLG	Grupos de clase	CA-	TAB-	
+503	TCLO	Campos clave de objetos	CA-	TAB-	
+504	CDHDR	Cabecera de docuemento de modificacion	CA-	TAB-	
+505	CDPOS	Posiciones de docuemento de modificacion	CA-	TAB-	
+506	KONV	Condiciones(Datos operacion)–(Precios de la factura)	CA-	TAB-	
+507	STXH	SAPscript Cabecera ficehro texto	CA-	TAB-	
+508	STXL	SAPscript Lineas ficehro texto	CA-	TAB-	
+509	EKKO	Cabecera del documento de compras	MM-	TAB-	
+510	EKPO	Posiciones del docuemnto de compras	MM-	TAB-	
+511	EBNA	Solicitud de pedido	MM-	TAB-	
+512	MKPE	Cabecera del documento de materiales	MM-	TAB-	
+513	MSEG	Posciones del docuemnto de materiales	MM-	TAB-	
+514	MARA	Mestro materiales general	MM-	TAB-	
+515	MARC	Materiales por centro	MM-	TAB-	
+516	MARD	Almacen por centro	MM-	TAB-	
+517	ABEW	Valoracion de materiales	MM-	TAB-	
+518	EKKN	Imputacion en documento de compras	MM-	TAB-	
+519	MARM	Unidad de medida	MM-	TAB-	
+520	EINA	Registro info de compras Datos Generales	MM-	TAB-	
+521	RBKP	Cabecera documento factura recibida	MM-	TAB-	
+522	AFFL	Secuencia orden de trabajo	PP-	TAB-	
+523	AFKO	Datos cabecera orden para ordenes PCP	PP-	TAB-	
+524	AFPO	Posicion de orden	PP-	TAB-	
+525	AFVC	Operación de orden	PP-	TAB-	
+526	FAPW	Indice de centro de produccion/suministro para orden fabricacion	PP-	TAB-	
+527	CRCA	Asignacion de capacidad al puesto de trabajo	PP-	TAB-	
+528	CRCO	Asignacion de puesto de trabajo a centro de coste	PP-	TAB-	
+529	CRHD	Cabecera del puesto de trabajo	PP-	TAB-	
+530	CRHH	Datos cabecera jerarquia	PP-	TAB-	
+531	CRHS	Jerarquia estructura	PP-	TAB-	
+532	CRID	Recursos de produccion – Entidades	PP-	TAB-	
+533	CRTX	Puestos de trabajo/Denominacion breve del medio auxiliar fabric	PP-	TAB-	
+534	KAKT	Denominacion de la capacidad	PP-	TAB-	
+535	RDDIT076 	Editar OT liberada.	SE38-	Prog-	
+536	RSTXPDFT4	Imprimir/descargar orden spool	SE38-	Prog-	
+537	ZDOWNLOAD	Descargar programa.	SE38-	Prog-	
+538	MAKT	Descripciones de materiales	MM-	TAB-	
+539	MBEW	Valoración-material	MM-	TAB-	
+540	MEAN	Nº de artículos europeos del material	MM-	TAB-	
+541	MKAL	Versiones de fabricación del material	MM-	TAB-	
+542	MLAN	Clasificación impuestos material	MM-	TAB-	
+543	MLGN	Datos material por nº de almacén	MM-	TAB-	
+544	MLGT	Datos de material por nº de almacén	MM-	TAB-	
+545	MOFF	Maestro de  material aún abiertos	MM-	TAB-	
+546	MSTA	Status de maestro de materiales	MM-	TAB-	
+547	MVKE	Datos de ventas	MM-	TAB-	
+548	MCHB	Stocks por lotes	MM-	TAB-	
+549	MSLB	Stock especial en proveedor	MM-	TAB-	
+550	MKOL	Stocks especiales del proveedor	MM-	TAB-	
+551	MSSL	Suma stock especial en proveedor	MM-	TAB-	
+552	MKPF	Cabecera del doc-material	MM-	TAB-	
+553	RESB	Reserva/Necesidades secundarias	MM-	TAB-	
+554	T156T	Textos clase de movimiento	MM-	TAB-	
+555	MDKP	Datos cabecera del doc. De planificación	MM-	TAB-	
+556	MDTB	Posición doc. Planificación	MM-	TAB-	
+557	MDVM	Petición de planificación	MM-	TAB-	
+558	T438M	Grupo de planificación	MM-	TAB-	
+559	T399D	Datos     de     centro     para planificación necesidades	MM-	TAB-	
+560	T457T	Denominación del elemento de planificación de necesidades	MM-	TAB-	
+561	LQUA	Inventario a nivel ubicación	WM-	TAB-	
+562	EKBE	Historial de la orden de compra	MM-	TAB-	
+563	EKES	Entregas de la orden de compra	MM-	TAB-	
+564	EKET	Plan de entregas de una orden de compra	MM-	TAB-	
+565	EKPV	Plan de entregas de una orden de compra	MM-	TAB-	
+566	LTBK	Encabezado de una necesidad de transporte (NT)	MM-	TAB-	
+567	LTBP	Partidas de una necesidad de transporte (NT)	MM-	TAB-	
+568	LTAK	Ecabezado de una orden de transporte (OT)	MM-	TAB-	
+569	LTAP	Partidas de una ordenes de transporte OT abiertas	MM-	TAB-	
+570	LFA1	Datos generales de proveedor	FI-	TAB-	
+571	LFB1	Datos generales de proveedor nivel compañia	FI-	TAB-	
+572	LFM1	Datos generales de proveedor nivel organización de compras	FI-	TAB-	
+573	LFM2	Datos generales de proveedor nivel planta.	FI-	TAB-	
+574	PBIM	Índice de nec. primarias por material	PP-	TAB-	
+575	PBED	Datos de nec. primarias de material	PP-	TAB-	
+576	MDPB	Vista del MRP	PP-	TAB-	
+577	LAGP	Ubicaciones	WM-	TAB-	
+578	LINK	Cabecera de doc-inventario	MM-	TAB-	
+579	LINP	Posicón de doc-inventario	MM-	TAB-	
+580	LINV	Datos de inventario por cuanto	MM-	TAB-	
+581	RSEG	Posición de documento factura recibida	MM-	TAB-	
+582	RBCO	Pos.documento, factura recibida, imputación	MM-	TAB-	
+583	KNA1	Datos maestro de clientes	SD-	TAB-	
+584	KNB1	Clientes por sociedad	SD-	TAB-	
+585	KNBK	Bancos/cuentas	SD-	TAB-	
+586	KNVA	Lugares de descarga	SD-	TAB-	
+587	KNVK	Persona contacto (interlocutor)	SD-	TAB-	
+588	KNVP	Funciones de interlocutor	SD-	TAB-	
+589	KNVS	Datos de expedición	SD-	TAB-	
+590	KNVV	Datos de comercial	SD-	TAB-	
+591	TVKO	Organizaciones de venta	Estructura de organización	TAB-	
+592	TVKOT	Textos org. Ventas	Estructura de organización	TAB-	
+593	TVKOV	Canales de distribución por org. de ventas	Estructura de organización	TAB-	
+594	TVKOS	Sectores pro org. de ventas	Estructura de organización	TAB-	
+595	TVTA	Áreas de ventas	Estructura de organización	TAB-	
+596	TVKBZ	Oficina de ventas por área de ventas	Estructura de organización	TAB-	
+597	TVBVK	Grupo vendedores por oficina de ventas	Estructura de organización	TAB-	
+598	TVKWZ	Centros por org. de ventas	Estructura de organización	TAB-	
+599	TVSWZ	Lugares de expedición por centro	Estructura de organización	TAB-	
+600	SKB1	Cta. mayor (sociedad)	Maestro de cuenta mayor	TAB-	
+601	SKAT	Cta. Mayor (plan de cuentas: denominación)	Maestro de cuenta mayor	TAB-	
+602	TBTCO	Resumen del estado de los jobs	Dev	TAB-	
+603	TVARV	Variables en condición de selección	Dev	TAB-	
+604	TTXER	Tratamiento textos: grupos ID de textos	Dev	TAB-	
+605	T001	Sociedades	Conf.	TAB-	
+606	T001L	Almacenes	Conf.	TAB-	
+607	T001W	Centros/sucursales	Conf.	TAB-	
+608	T005	Países	Conf.	TAB-	
+609	T005T	Nombres de países	Conf.	TAB-	
+610	T005U	Impuestos: provincia: textos	Conf.	TAB-	
+611	T006	Unidades de medida	Conf.	TAB-	
+612	T009	Variantes de ejercicio	Conf.	TAB-	
+613	T024W	Org. Compras permitidas para centro	Conf.	TAB-	
+614	T151T	Deudores: grupos de clientes: textos	Conf.	TAB-	
+615	T171T	Deudores: zonas de ventas: textos	Conf.	TAB-	
+616	T460A	Clave de acopio especial	Conf.	TAB-	
+617	T882	Asignación sociedad FI	Conf.	TAB-	
+618	TFACS	Calendario de fábrica	Conf.	TAB-	
+619	TPFKT	Deudores: interlocutor: textos	Conf.	TAB-	
+620	TSPAT	Unid. Org.: sectores comerciales: textos	Conf.	TAB-	
+621	TVAGT	Doc-ventas: motivo rechazo: textos	Conf.	TAB-	
+622	TVAKT	Doc-ventas: clases: textos	Conf.	TAB-	
+623	TVAPT	Doc-ventas: tipos posición: textos	Conf.	TAB-	
+624	TVAUT	Doc-ventas: motivo pedidos: textos	Conf.	TAB-	
+625	TVGRT	Unid. de org.: grupos vendedores: textos	Conf.	TAB-	
+626	TVKBT	Unid. de org.: oficinas de ventas: textos	Conf.	TAB-	
+627	TVRO	Rutas	Conf.	TAB-	
+628	TVROT	Rutas textos	Conf.	TAB-	
+629	TVTWT	Unid. org: canales de distribución: textos	Conf.	TAB-	
+630	TVZBT	Deudores: condiciones de pago: textos	Conf.	TAB-	
+631	KONH	Cabecera	Cond.precios	TAB-	
+632	KONP	Posición	Cond.precios	TAB-	
+633	KOND	Datos	Cond.precios	TAB-	
+634	SADR	Datos de la empresa, Gestión de direcciones	Cond.precios	TAB-	
+635	SAFK	Datos maestros de serie de orden	Cond.precios	TAB-	
+636	A017	Específico del centro	Cond.precios	TAB-	
+637	A018	Condiciones de ventas estructura para precios	Cond.precios	TAB-	
