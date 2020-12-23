@@ -4535,5 +4535,12 @@ var Lista =
       "R: Para modificar en TST",
       "SE38-",
       "Tx-"
+    ],
+    [
+      "649",
+      "SE16N",
+      "Modificar data 1: /H  2: GD-EDIT=X , GD-SAPEDIT=X",
+      "SE16N-",
+      "/h-"
     ]
 ]
