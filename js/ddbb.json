@@ -4542,5 +4542,12 @@ var Lista =
       "Modificar data 1: /H  2: GD-EDIT=X , GD-SAPEDIT=X",
       "SE16N-",
       "/h-"
+    ],
+    [
+      "650",
+      "SAPLKKBL",
+      "Copiar estatus GUI STANDARD",
+      "SE38-",
+      "R-"
     ]
 ]
