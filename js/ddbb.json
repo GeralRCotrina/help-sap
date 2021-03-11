@@ -4549,5 +4549,19 @@ var Lista =
       "Copiar estatus GUI STANDARD",
       "SE38-",
       "R-"
+    ],
+    [
+      "651",
+      "auth_check_tcode",
+      "Saltar autorización",
+      "SE37-",
+      "Tx-"
+    ],
+    [
+      "652",
+      "BALVBUFDEL",
+      "BCALV_BUFFER_DEL_SHARED Refrecar bufer ALV (fieldcat)",
+      "SE38-",
+      "R-"
     ]
 ]
