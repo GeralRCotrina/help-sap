@@ -4563,5 +4563,12 @@ var Lista =
       "BCALV_BUFFER_DEL_SHARED Refrecar bufer ALV (fieldcat)",
       "SE38-",
       "R-"
+    ],
+    [
+      "653",
+      "/iwfnd/gw_client",
+      "oData Cliente - Gateway",
+      "Tx-",
+      "h-"
     ]
 ]
