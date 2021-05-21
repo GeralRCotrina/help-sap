@@ -4584,5 +4584,12 @@ var Lista =
       "SLG1 / SLG1 : Visualizar/Borrar Logs.",
       "Tx-",
       "/n-"
+    ],
+    [
+      "656",
+      "RFRECPSFTLGEN",
+      "Regenera el programa del smartform.",
+      "Se38-",
+      "/n-"
     ]
 ]
