@@ -4563,5 +4563,19 @@ var Lista =
       "Descargar archivos desde la AL11 / Servidor.",
       "Tx-",
       "/o-"
+    ],
+    [
+      "653",
+      "RSTXTRAN",
+      "Transportar textos estandar",
+      "Tx-",
+      "/o-"
+    ],
+    [
+      "654",
+      "SO10",
+      "Textos estandar",
+      "Tx-",
+      "/o-"
     ]
 ]
