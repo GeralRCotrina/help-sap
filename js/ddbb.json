@@ -4612,5 +4612,12 @@ var Lista =
       "Textos estandar",
       "Tx-",
       "/o-"
+    ],
+    [
+      "660",
+      "ADR6",
+      "Tabla de correos",
+      "SMTP_ADDR",
+      "/o-"
     ]
 ]
