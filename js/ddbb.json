@@ -4462,7 +4462,7 @@ var Lista =
     [
       "638",
       "SEGW",
-      "Configurar oData",
+      "Configurar oData/Gateway",
       "Prog/Basic-",
       "oData"
     ],
@@ -4618,6 +4618,27 @@ var Lista =
       "ADR6",
       "Tabla de correos",
       "SMTP_ADDR",
+      "/o-"
+    ],
+    [
+      "661",
+      "SCC1",
+      "Transportar OT a otro mandante.",
+      "Tx",
+      "/o-"
+    ],
+    [
+      "662",
+      "ZFICAM001",
+      "Contantes/Rangos USIL",
+      "Tx",
+      "/o-"
+    ],
+    [
+      "663",
+      "RS_ABAP_SOURCE_SCAN",
+      "Escáner de informes Fuentes ABAP",
+      "SE38",
       "/o-"
     ]
 ]
