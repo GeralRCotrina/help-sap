@@ -1851,7 +1851,7 @@ var Lista =
     [
       "265",
       "SU01",
-      "Administración de usuarios",
+      "Usuarios Crea/Borra/Copia",
       "Control/Acceso-",
       "Tx-"
     ],
@@ -4638,6 +4638,13 @@ var Lista =
       "663",
       "RS_ABAP_SOURCE_SCAN",
       "Escáner de informes Fuentes ABAP",
+      "SE38",
+      "/o-"
+    ],
+    [
+      "664",
+      "SE03",
+      "Fusionar Ots / cambiar paquetes / etc",
       "SE38",
       "/o-"
     ]
