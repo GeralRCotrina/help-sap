@@ -4647,5 +4647,19 @@ var Lista =
       "Fusionar Ots / cambiar paquetes / etc",
       "SE38",
       "/o-"
-    ]
+    ],
+    [
+      "665",
+      "STRUST",
+      "Certificados ssl",
+      "Tx",
+      "/o-"
+    ],
+    [
+      "666",
+      "RSWF_TEST_HTTP",
+      "Verificar conexión HTTP",
+      "SE38",
+      "/o-"
+    ],
 ]
